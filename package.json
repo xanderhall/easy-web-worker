@@ -1,0 +1,23 @@
+{
+  "name": "easy-web-worker",
+  "version": "0.0.1",
+  "description": "Wrapper to make web workers more fluid and easy to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xanderhall/easy-web-worker.git"
+  },
+  "keywords": [
+    "web",
+    "worker"
+  ],
+  "author": "Matthew Greenslade",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/xanderhall/easy-web-worker/issues"
+  },
+  "homepage": "https://github.com/xanderhall/easy-web-worker#readme"
+}
